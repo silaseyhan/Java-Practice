@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Week-01" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week-02" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week-03" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week-04" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week-05" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week-06" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week-07" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week-08" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week-09" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week-10" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week-11" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week-12" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week-13" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week-14" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
